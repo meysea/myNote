@@ -1,1 +1,1 @@
-# myNote
+1. npm i vuepress --save
